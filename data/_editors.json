@@ -1,0 +1,99 @@
+[
+	{
+		"role": "owner",
+		"members": [
+			{
+				"name": "NotJarvis",
+				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=NotJarvis"
+			},
+                        {
+				"name": "ChepsGames",
+				"link": "https://www.youtube.com/channel/UCJSZsR5eOEO6kQPyTUyHVIA"
+                        }
+		]
+	},
+	{
+		"role": "admin",
+		"members": [
+			{
+				"name": "KitMarGD",
+				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=Kitmargd"
+			}
+		]
+	},
+	{
+		"role": "mod",
+		"members": [
+	                {
+				"name": "ABCDE",
+				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=ABCDE"
+			},
+			{
+				"name": "SunnyRain",
+		          	"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=SunnyRain"
+			},
+			{
+				"name": "Super Mario",
+				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=supermario1337"
+			},
+			{
+				"name": "Aidyy_",
+				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=Aidyy10point5"
+	},
+			{
+				"name": "Lila2048_",
+				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=Lila2048"
+	},
+			{
+				"name": "snowfall",
+				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=snowfall"
+	},
+			{
+				"name": "mk455",
+				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=mk455"
+	},
+			{
+				"name": "SummrsTheGoat",
+				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=summrsthegoat"
+  }
+		]
+	},
+	{
+		"role": "helper",
+		"members": [
+			{
+				"name": "Literally G",
+				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=bluericefake"
+			}
+		]
+	},
+	{
+		"role": "dev",
+		"members": [
+			{
+				"name": "Simolater",
+				"link": "Simolater"
+			},
+			{
+				"name": "Infectus",
+				"link": "Infectus"
+			},
+			{
+				"name": "Zoink Doink",
+				"link": "Zoink Doink"
+			},
+			{
+				"name": "Oculations",
+				"link": "Oculations"
+			},
+			{
+				"name": "windogee",
+				"link": "windogee"
+			},
+			{
+				"name": "Minebox260",
+				"link": "Minebox260"
+			}
+		]
+	}
+]
