@@ -24,10 +24,6 @@
 	{
 		"role": "mod",
 		"members": [
-	                {
-				"name": "ABCDE",
-				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=ABCDE"
-			},
 			{
 				"name": "SunnyRain",
 		          	"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=SunnyRain"
@@ -61,8 +57,16 @@
 				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=gdnimble"
 	},
 			{
+				"name": "Elch1s",
+				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=elch1s"
+	},
+			{
 				"name": "Janix",
 				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=janix"
+	},
+			{
+				"name": "woofies4ever2",
+				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=woofies4ever2"
   }
 		]
 	},
@@ -84,7 +88,7 @@
 		"members": [
 			{
 				"name": "NotJarvis",
-				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=notjarvis"
+				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=NotJarvis"
 			},
 			{
 				"name": "BlueRiceFake",
