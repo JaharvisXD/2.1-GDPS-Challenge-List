@@ -117,10 +117,6 @@ export default {
                             </ol>
                         </ol>
                     </template>
-                     <h3>> How to Submit Records</h3>
-                    <p>
-                        Join our discord server, and  go to channel #submit-completion
-                    </p>
                     <h3>> Submission Requirements</h3>
                     <p>
                         When submitting your record, please ensure that it complies with the following guidelines:
