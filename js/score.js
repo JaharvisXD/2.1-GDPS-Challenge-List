@@ -1,3 +1,4 @@
+
 /**
  * Basefactor for parameters a and b
  * basefactor = 1/(18000000/(100+minpoints)^2-50)
@@ -18,9 +19,9 @@ const scale = 1;
  */
 export function score(rank, percent, minPercent, levelCount) {
     const b = (levelCount - 1) * baseFactor
-    const a = 600 * Math.sqrt(b)
+    const a = 1100 * Math.sqrt(b)
 
-    let score = (a / Math.sqrt((rank - 1) / 50 + b) - 100) *
+    let score = (a / Math.sqrt((rank - 1) / 100 + b) - 100) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
     score = Math.max(0, score);
@@ -34,11 +35,11 @@ export function score(rank, percent, minPercent, levelCount) {
 
 export function calculateScores(levelCount) {
     const b = (levelCount - 1) * baseFactor;
-    const a = 600 * Math.sqrt(b);
+    const a = 1100 * Math.sqrt(b);
 
     let scores = [];
     for (let rank = 0; rank < levelCount; ++rank) {
-        const score = (a / Math.sqrt(rank / 50 + b) - 100);
+        const score = (a / Math.sqrt(rank / 100 + b) - 100);
         scores.push(round(score));
     }
 
