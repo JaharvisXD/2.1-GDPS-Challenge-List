@@ -10,5 +10,12 @@
     "verification": "https://youtu.be/ZQ6so1HbjJs",
     "percentToQualify": 100,
     "password": "Free To Copy",
-    "records": []
+    "records": [
+                   {
+      "user": "Uzuden",
+      "link": "https://www.youtube.com/watch?v=e7tsjYNt2RA",
+      "percent": 100,
+      "hz": 360
+   }
+    ]
 }
