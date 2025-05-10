@@ -45,7 +45,7 @@ export default {
                 </div>
                 <div class="player-container">
                     <div class="player">
-                        <h2>#{{ selected + 1 }} {{ entry.user }} - {{ entry.verified.length + entry.completed.length }} challenges</h2>
+                        <h2>#{{ selected + 1 }} {{ entry.user }} - {{ entry.verified.length + entry.completed.length }} challenges completed</h2>
                         <h3>{{ entry.total }} points</h3>
                         <div class="packs" v-if="entry.packs.length > 0">
                             <div v-for="pack in entry.packs" class="tag" :style="{background:pack.colour, color:getFontColour(pack.colour)}">
