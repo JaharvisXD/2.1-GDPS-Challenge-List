@@ -45,14 +45,14 @@ export default {
                 </div>
                 <div class="player-container">
                     <div class="player">
-                        <h2>#{{ selected + 1 }} {{ entry.user }} - {{ entry.verified.length + entry.completed.length }} demons</h2>
+                        <h2>#{{ selected + 1 }} {{ entry.user }} - {{ entry.verified.length + entry.completed.length }} challenges</h2>
                         <h3>{{ entry.total }} points</h3>
                         <div class="packs" v-if="entry.packs.length > 0">
                             <div v-for="pack in entry.packs" class="tag" :style="{background:pack.colour, color:getFontColour(pack.colour)}">
                                 {{pack.name}}
                             </div>
                         </div>
-                        <h2 v-if="entry.verified.length > 0">Verified ({{ entry.verified.length}})</h2>
+                        <h2 v-if="entry.verified.length > 0">Challenges Verified ({{ entry.verified.length}})</h2>
                         <table class="table">
                             <tr v-for="score in entry.verified">
                                 <td class="rank">
@@ -66,7 +66,7 @@ export default {
                                 </td>
                             </tr>
                         </table>
-                        <h2 v-if="entry.completed.length > 0">Completed ({{ entry.completed.length }})</h2>
+                        <h2 v-if="entry.completed.length > 0">Challenges Completed ({{ entry.completed.length }})</h2>
                         <table class="table">
                             <tr v-for="score in entry.completed">
                                 <td class="rank">
