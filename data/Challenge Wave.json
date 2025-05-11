@@ -7,5 +7,12 @@
     "verification": "Link",
     "percentToQualify": 100,
     "password": "Free To Copy",
-    "records": []
+    "records": [
+                   {
+      "user": "MMonster",
+      "link": "https://medal.tv/games/requested/clips/kgguC7pxVJm7mtMGO?invite=cr-MSxvZ2csMTk2MjQyNDE4",
+      "percent": 100,
+      "hz": 360
+   }
+    ]
 }
