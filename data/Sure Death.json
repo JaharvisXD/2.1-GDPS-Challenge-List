@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/LksGu-C82-o?si=YuE52XSRTdf6UbZk",
     "percentToQualify": 100,
     "password": "Free To Copy",
-    "records": []
+    "records": [
+           {
+      "user": "NotJarvis",
+      "link": "https:https://youtu.be/NY_5pCTLL1Q",
+      "percent": 100,
+      "hz": 360
+   }
+    ]
 }
