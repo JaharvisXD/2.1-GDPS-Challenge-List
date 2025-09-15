@@ -107,6 +107,13 @@ export default {
                             </ol>
                         </ol>
                     </template>
+                    <h3>> How does the Challenge List work?</h3>
+                    <p>
+                        Challenge List is basically a short from extreme demon, with very hard gameplay and precise timings to beat the level.
+                    </p>
+                    <p>
+                        No easy challenge levels will be placed here. Instead, most of them will be put in the legacy list.
+                    </p>
                     <h3>> Submission Requirements</h3>
                     <p>
                         When submitting your record, please ensure that it complies with the following guidelines:
