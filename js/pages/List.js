@@ -107,13 +107,8 @@ export default {
                             </ol>
                         </ol>
                     </template>
-                    <h3>> How does the Challenge List work?</h3>
-                    <p>
-                        Challenge List is basically a short from extreme demon, with very hard gameplay and precise timings to beat the level.
-                    </p>
-                    <p>
-                        No easy challenge levels will be placed here. Instead, those that are already on the list will be put in the legacy list.
-                    </p>
+                                        <h3>Join Our Discord!</h3>
+<iframe src="https://discord.com/widget?id=1235805137528688660&theme=dark" width="250" height="400" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
                     <h3>> Submission Requirements</h3>
                     <p>
                         When submitting your record, please ensure that it complies with the following guidelines:
@@ -132,7 +127,7 @@ export default {
                         - The record must be achieved without using a secret way or a bugged route
                     </p>
                     <p>
-                        - Converting the level to 2.2 is allowed, unless if the level is possible to beat in 2.2 (NO MODIFICATIONS)
+                        - Converting the level to 2.2 is allowed, unless if the level is possible to beat in 2.2 (NO MODIFICATIONS, TPS AND PHYSICS CHANGING, ETC)
                     </p>
                     <p>
                         - Cheat Indicator is required if you are using a mod menu that supports one, like Megahack v7
@@ -157,7 +152,7 @@ export default {
                         Does the video meet the requirements? (Above)
                     </p>
                     <p>
-                        Is the level placed on the list? (#pending-changes)
+                        Is the level placed on the list?
                     </p>
                     <p>
                         Was the submission command filled out correctly?
