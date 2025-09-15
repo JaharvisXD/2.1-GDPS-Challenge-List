@@ -111,7 +111,7 @@ export default {
 <iframe src="https://discord.com/widget?id=1235805137528688660&theme=dark" width="250" height="400" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
                     <h3>> How does the Challenge List work?</h3>
                     <p>
-                    Challenge List is basically a short from extreme demon, with very hard gameplay and precise timings to beat the level.
+                    Challenge is basically a short from extreme demon, with very hard gameplay and precise timings to beat the level. Level is usually ranged from 10 seconds to 29 seconds.
                     </p>
                     <p>
                     No easy challenge levels will be placed here. Instead, those that are already on the list will be put in the legacy list.
