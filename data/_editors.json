@@ -1,4 +1,3 @@
-
 [
 	{
 		"role": "owner",
@@ -46,12 +45,16 @@
 				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=mk455"
 	},
 			{
-				"name": "SummrsTheGoat",
-				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=summrsthegoat"
+				"name": "Morality9Games",
+				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=morality9games"
 	},
 			{
 				"name": "GDNimble",
 				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=gdnimble"
+	},
+			{
+				"name": "Tiger8",
+				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=tiger8"
 	},
 			{
 				"name": "Elch1s",
@@ -64,15 +67,19 @@
 			{
 				"name": "woofies4ever2",
 				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=woofies4ever2"
-  }
+  },
+			{
+				"name": "Lujain",
+				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=lujain"
+	}
 		]
 	},
 	{
 		"role": "helper",
 		"members": [
 			{
-				"name": "BlueRiceFake",
-				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=bluericefake"
+				"name": "Morality9Games",
+				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=morality9games"
 			},
 		        {
 				"name": "Uzuden",
@@ -86,10 +93,6 @@
 			{
 				"name": "NotJarvis",
 				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=NotJarvis"
-			},
-			{
-				"name": "BlueRiceFake",
-				"link": "https://two1gdps.ps.fhgdps.com/browser/profile/?u=bluericefake"
 			}
 		]
 	}
